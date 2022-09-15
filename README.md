@@ -1,6 +1,6 @@
 ### Hi there 👋I'm Eric Zhang.
  - 💻 I'm a back-end developer.
- - 🔥 I’m currently learning Golang and C++.
+ - 🔥 I’m currently learning Golang and C/C++.
 
 <!--
 **eric966/eric966** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
